@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  font-size: 30px;
+  font-weight: bold;  
+}
+canvas {
+  display: block;
+}
